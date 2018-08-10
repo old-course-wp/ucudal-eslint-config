@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "description": "JavaScript style guide",
   "main": "index.js",
-  "repository": "https://github.com/olistic/ucudal-eslint-config.git",
-  "author": "Matias Olivera <molivera@ucu.edu.uy>",
+  "repository": "https://github.com/ucudal-wp/ucudal-eslint-config.git",
+  "author": "Matias Olivera <javier.olivera@ucu.edu.uy>",
   "contributors": [
-    "Matias Olivera <molivera@ucu.edu.uy>",
-    "Rodrigo Espinosa <respinosa@ucu.edu.uy>"
+    "Matias Olivera <javier.olivera@ucu.edu.uy>",
+    "Rodrigo Espinosa"
   ],
   "license": "MIT",
   "keywords": [
