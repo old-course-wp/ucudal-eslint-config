@@ -8,9 +8,17 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [0.2.0] - 2018-08-14
+
+### Changed
+
+- Update dependencies: `eslint-config-airbnb-base`, `eslint` (peer) and
+  `eslint-plugin-import` (peer).
+
 ## 0.1.0 - 2018-08-07
 
 Initial version.
 
 [unreleased]:
-  https://github.com/olistic/ucudal-eslint-config/compare/v0.1.0...HEAD
+  https://github.com/olistic/ucudal-eslint-config/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/olistic/ucudal-eslint-config/compare/v0.1.0...v0.2.0
