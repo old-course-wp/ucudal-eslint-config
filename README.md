@@ -24,7 +24,7 @@ Linux/OSX users can run:
 Which produces and runs a command like:
 
 ```sh
-  npm install --save-dev @ucudal/eslint-config@latest eslint@^#.#.#
+npm install --save-dev @ucudal/eslint-config@latest eslint@^x.y.z eslint-plugin-import@^x.y.z
 ```
 
 Windows users can install the `@ucudal/eslint-config` and all its peer
